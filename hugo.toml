@@ -1,4 +1,4 @@
-baseURL = 'https://haihuynh226.github.io/themes1/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'MangoAds Site'
 theme = 'BlogRa'
@@ -30,7 +30,7 @@ linkedin   = "https://www.linkedin.com/in/rafed-m-yasir/"
         name = "Home"
         url = "/"
         weight = 1
-
+        
     [[menu.main]]
         name = "Posts"
         url = "/posts/"
