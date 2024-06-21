@@ -2,6 +2,7 @@
 title = 'Văn hóa doanh nghiệp của Uniqlo và triết lý lấy khách hàng làm trọng tâm'
 date = 2024-06-20T11:58:59+07:00
 draft = false
+
 [cover]
 image = "img/img2.jpg"
 alt = "images"
